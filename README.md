@@ -1,3 +1,3 @@
 # Hello World !
 
-Juste un test rapide.
+Juste une série de tests rapides.
